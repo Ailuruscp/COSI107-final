@@ -1,0 +1,47 @@
+Security Scan Findings
+=====================
+
+Type: Port Scan
+Description: Port 3306/tcp: mysql 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 4001/tcp: newoak 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 4301/tcp: http 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 4310/tcp: mirrtex 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 5000/tcp: rtsp 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 7000/tcp: rtsp 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 9210/tcp: oma-mlp 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 33060/tcp: mysqlx 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 57621/tcp:  
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 57787/tcp: unknown 
+Severity: High
+--------------------------------------------------
+Type: Port Scan
+Description: Port 59265/tcp: bandwidth-test 
+Severity: High
+--------------------------------------------------
